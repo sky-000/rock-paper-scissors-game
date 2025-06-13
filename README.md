@@ -14,3 +14,4 @@ You play against the computer. Choose Rock, Paper, or Scissors, and the computer
 
 💡 This was one of my first JavaScript projects, and it helped me practice using functions, conditionals, and event handling.
 
+![Screenshot 2025-06-13 232906](https://github.com/user-attachments/assets/98bb8b97-61fa-4a13-a9d3-6273034a5cd2)
